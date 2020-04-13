@@ -1,4 +1,4 @@
-=== Future Aim Facebook Comment ===
+=== Future Aim Social Comments ===
 Contributors: Arifulislam124
 Tags: facebook comments, lazy laod, fb comment, free, fb comments, future aim facebook comments
 Requires at least: 3.0
@@ -16,7 +16,7 @@ Use Facebook comments system in your website without slowing down your website. 
 Simple plugin to add Facebook Comments to your website easily. It works perfectly with latest version of WordPress.
 
 
-> #### Future Aim Social Comment system - Features
+> #### Future Aim Social Comments system - Features
 >
 > - Add most popular Facebook commenting system in your website.<br />
 > - **Future Aim Facebook scripts and comments only after clicking a button or scrolling down.**<br />
