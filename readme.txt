@@ -59,7 +59,7 @@ OR, See detailed doc, [how to install a WordPress plugin](https://codex.wordpres
 
 
 = Need more help? =
-Please [open a support request](http://wordpress.org/support/plugin/future-aim-facebook-comment).
+Please [open a support request](http://wordpress.org/support/plugin/future-aim-social-comments).
 
 = Missing something? =
 If you would like to have an additional feature for this plugin, [let me know](https://arifulsh.com)
